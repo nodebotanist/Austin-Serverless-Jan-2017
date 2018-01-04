@@ -101,5 +101,31 @@
 * Alerting on several metrics if possible that cover all three categories
 
 
+---
 
+# Differentials and Summaries
+
+These are so you can see how your app's performance changes over time, allowing you to spot problems before they get too big, or spot potential growth areas.
+
+---
+
+Demo: How AWS and IOpipe handle monitoring serverless architecture
+
+---
+
+# What next?
+
+More and more platforms will probably start turning their focus to ops and developer experiience in 2018.
+
+And if they don't, third party tools definitely will.
+
+---
+
+# Thanks for listening!
+
+* Kassandra Perch
+* kas@iopipe.com
+* @nodebotanist
+
+![inline](~/Dropbox/GIFs/carl-sagan-youre-awesome.gif)
 
